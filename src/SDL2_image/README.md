@@ -1,0 +1,1 @@
+Unpack SDL2_image.7z to this directory
