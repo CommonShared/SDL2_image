@@ -1,0 +1,1 @@
+Unpack SDL2_image-2.0.5.gz to this directory
